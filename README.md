@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Jolivet
+- prénom : Myliana
+- URL Netlify : effervescent-chimera-eae8da.netlify.app
 
 # Travail
 
